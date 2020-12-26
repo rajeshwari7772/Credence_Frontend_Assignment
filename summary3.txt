@@ -1,0 +1,9 @@
+<h3 style="color:darkviolet;">
+<b><u><i>-Movie Summary-</i></u></b> 
+<i>"Adrift in space with no food or water, Tony Stark sends a message to Pepper Potts as<br>
+ his oxygen supply starts to dwindle. Meanwhile, the remaining Avengers <br>
+ -- Thor, Black Widow, Captain America and Bruce Banner <br>
+ -- must figure out a way to bring back their vanquished allies for an epic showdown with Thanos<br> 
+ -- the evil demigod who decimated the planet and the universe.</i>
+
+</h3>

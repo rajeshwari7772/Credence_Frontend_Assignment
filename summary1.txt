@@ -1,0 +1,6 @@
+<h3 style="color:darkviolet;">
+<b><u><i>-Movie Summary-</i></u></b>
+<i>"Harry Potter and Dumbledore's warning about the return of Lord Voldemort<br>
+ is not heeded by the wizard authorities who, in turn, look to undermine <br>
+ Dumbledore's authority at Hogwarts and discredit Harry.</i>
+</h3>

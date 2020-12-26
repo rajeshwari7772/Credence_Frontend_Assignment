@@ -1,0 +1,6 @@
+<h3 style="color:darkviolet;">
+<b><u><i>-Movie Summary-<i></u></b> 
+<i>"A young hobbit, Frodo, who has found the One Ring that belongs to the Dark Lord Sauron,<br>
+ begins his journey with eight companions to Mount Doom,<br>
+ the only place where it can be destroyed.</i>
+</h3>
